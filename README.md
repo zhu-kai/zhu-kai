@@ -13,6 +13,7 @@ What's missing is the connection to users, so that's where I build: agent toolin
 - **Frontend**: React, TypeScript, Next.js, Tailwind CSS
 - **Backend**: Node.js, Python, Go
 - **AI**: LLM apps, Model Context Protocol (MCP), agent workflows, Claude / OpenAI APIs
+- **Ship with**: Vercel, Supabase
 
 ## Projects
 
